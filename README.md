@@ -1,0 +1,1 @@
+in this project I have created a home page for a recipe book as well as 3 recipes the book. i have learned a few things about html and css such as creating links, using git hub, using images, making list, and make it look the way I want with css.
